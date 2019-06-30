@@ -13,6 +13,7 @@ foreach(subdir
     b
     c
     d
+    interface
     )
   add_subdirectory(${subdir})
 endforeach()
